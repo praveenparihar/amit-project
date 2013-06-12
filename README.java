@@ -1,3 +1,8 @@
-amit-project
-============
-hello
+class Demo
+{
+public static void main(String ar[])
+{
+ System.out.println("amit");
+
+}
+}
